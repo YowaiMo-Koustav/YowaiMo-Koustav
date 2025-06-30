@@ -38,7 +38,7 @@
 <hr>
 <div align=center>
 <div align="center">
-  <img src="https://github.com/YowaiMo-Koustav/YowaiMo-Koustav/main/griffith-berserk-sacrifice.gif" />
+  <img src="https://github.com/YowaiMo-Koustav/YowaiMo-Koustav/blob/main/griffith-berserk-sacrifice.gif" />
 </div>
 <div align="center">
   <b><i>"A dream can make a man feel alive. It gives him something to live for. But when that dream is over, it is no longer a dream. It becomes a burden." - Griffith</i></b>
