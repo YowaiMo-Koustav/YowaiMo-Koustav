@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, It's Koustav </h1>
 <h3 align="center">A passionate developer from Kolkata </h3>
 
+- 🔭 I’m currently working on **AI/ML, web3 Projects**
+
+- 👯 I’m looking to collaborate on **Full Stack Dev**
+
+- 🤝 I’m looking for help with **Cybersecurity Projects**
+
+- 💬 Ask me about **APTOS, TensorFlow**
+
+- 📫 Reach me at **koustav2706@gmail.com**
+
+- ⚡ Fun fact **Anime Messed Up Fan**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowaimo-koustav&label=Profile%20views&color=0e75b6&style=flat" alt="yowaimo-koustav" /> </p>
 
 <p align="left"> <a href="https://twitter.com/koustav2006" target="blank"><img src="https://img.shields.io/twitter/follow/koustav2006?logo=twitter&style=for-the-badge" alt="koustav2006" /></a> </p>
