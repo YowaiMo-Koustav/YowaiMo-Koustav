@@ -7,17 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/koustav2006" target="blank"><img src="https://img.shields.io/twitter/follow/koustav2006?logo=twitter&style=for-the-badge" alt="koustav2006" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/koustav2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koustav2006" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/koustav-mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koustav-mallick" height="30" width="40" /></a>
 <a href="https://instagram.com/koustav2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koustav2710" height="30" width="40" /></a>
 <a href="https://medium.com/@mallickkoustav77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mallickkoustav77" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cosmosalchemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cosmosalchemist" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CosmosAlchemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@CosmosAlchemist" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
