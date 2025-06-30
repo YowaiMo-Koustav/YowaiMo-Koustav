@@ -8,7 +8,7 @@
 </p>
 </div>
 
-<h3 align="center">A passionate developer from Kolkata </h3>
+<h3 align="center">A passionate developer from West Bengal </h3>
 
 - 🔭 I’m currently working on **AI/ML, web3 Projects**
 
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/YowaiMo-Koustav">
-    <img src="https://streak-stats.demolab.com?user=Aeon-San&theme=dark&background=000000" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=YowaiMo-Koustav&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
 </p>
 
