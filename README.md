@@ -3,8 +3,6 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yowaimo-koustav&label=Profile%20views&color=0e75b6&style=flat" alt="yowaimo-koustav" /> </p>
-
 - 🔭 I’m currently working on **AI/ML, web3 Projects**
 
 - 👯 I’m looking to collaborate on **Full Stack Dev**
