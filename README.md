@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href= "mailto:mallickkoustav77@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" height="30" width="40" /></a>
-<a href="https://twitter.com/koustav2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koustav2006" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/koustav-mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koustav-mallick" height="30" width="40" /></a>
-<a href="https://instagram.com/koustav2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koustav2710" height="30" width="40" /></a>
+<a href= "mailto:mallickkoustav77@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="mail" height="30" width="40" /></a>
+<a href="https://twitter.com/koustav2006" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="koustav2006" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/koustav-mallick" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="koustav-mallick" height="30" width="40" /></a>
+<a href="https://instagram.com/koustav2710" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" /></a>
 <a href="https://medium.com/@mallickkoustav77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mallickkoustav77" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CosmosAlchemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@CosmosAlchemist" height="30" width="40" /></a>
 </p>
@@ -49,17 +49,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -73,21 +71,23 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio"/>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp"/>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="Kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" height="40" alt="CoffeeScript logo"  />
+  <img src="https://skillicons.dev/icons?i=windows" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nix" height="40"/>
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="FireBase logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" alt="GoLang logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="GoLang logo"  />
 </div>
 
 <br>
