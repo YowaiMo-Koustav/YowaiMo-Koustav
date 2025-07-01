@@ -3,6 +3,8 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yowaimo-koustav&label=Profile%20views&color=0e75b6&style=flat" alt="yowaimo-koustav" /> </p>
+
 - 🔭 I’m currently working on **AI/ML, web3 Projects**
 
 - 👯 I’m looking to collaborate on **Full Stack Dev**
@@ -11,18 +13,13 @@
 
 - 💬 Ask me about **APTOS, TensorFlow**
 
-- 📫 Reach me at **koustav2706@gmail.com**
-
 - ⚡ Interesting fact **Manga Fan**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yowaimo-koustav&label=Profile%20views&color=0e75b6&style=flat" alt="yowaimo-koustav" /> </p>
-
-<p align="left"> <a href="https://twitter.com/koustav2006" target="blank"><img src="https://img.shields.io/twitter/follow/koustav2006?logo=twitter&style=for-the-badge" alt="koustav2006" /></a> </p>
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href= "mailto:koustavarko55@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" height="30" width="40" /></a>
 <a href="https://twitter.com/koustav2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koustav2006" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/koustav-mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koustav-mallick" height="30" width="40" /></a>
 <a href="https://instagram.com/koustav2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koustav2710" height="30" width="40" /></a>
