@@ -94,16 +94,6 @@
 
 <br>
 
-
-<h3 align="center">GitHub Statistics</h3>
-<p align="center">
-  <a href="https://github.com/YowaiMo-Koustav">
-    <img src="https://streak-stats.demolab.com?user=YowaiMo-Koustav&theme=dark&background=000000" alt="GitHub Streak" />
-  </a>
-</p>
-
-<br>
-
 </div>
 <hr>
 <div align=center>
