@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Koustav</h1>
-<h3 align="center">A passionate developer from West Bengal </h3>
+<h3 align="center"> Developer and ML Enthusiast </h3>
 
 <br>
 
