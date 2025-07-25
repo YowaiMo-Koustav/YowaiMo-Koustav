@@ -3,18 +3,6 @@
 
 <br>
 
-- 🔭 I’m currently working on **AI/ML, web3 Projects**
-
-- 👯 I’m looking to collaborate on **Full Stack Dev**
-
-- 🤝 I’m looking for help with **Cybersecurity Projects**
-
-- 💬 Ask me about **APTOS, TensorFlow**
-
-- ⚡ Interesting fact **Manga Fan**
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href= "mailto:mallickkoustav77@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="mail" height="30" width="40" /></a>
