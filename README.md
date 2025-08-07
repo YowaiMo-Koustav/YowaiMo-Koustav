@@ -30,8 +30,6 @@
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/102832242?s=48&v=4" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
-  <img width="12" />
 </div>
 
 <br>
