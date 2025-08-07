@@ -14,21 +14,23 @@
 
 <br>
 
-<h3 align="center">🛠 Languages and Tools</h3>
+<h3 align="center"> Tech-Stacks</h3>
 <hr style="width: 100px; border: 1px solid #000; margin: auto; margin-top: 0; margin-bottom: 20px;" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow logo"  />
+  <img src="https://avatars.githubusercontent.com/u/102832242?s=48&v=4" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
   <img width="12" />
 </div>
 
