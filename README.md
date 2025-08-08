@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Koustav</h1><h4 align="center"> ML Developer </h4>
+<h1 align="center">Hi! I'm Koustav</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img width="12" />
