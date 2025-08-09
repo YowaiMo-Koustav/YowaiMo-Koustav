@@ -1,17 +1,3 @@
-<h1 align="center">Hi! I'm Koustav</h1>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/6076229?s=48&v=4" height="40" />
-  <img width="12" />
-</div>
-
-<br>
-
 </div>
 <hr>
 <div align=center>
@@ -24,4 +10,5 @@
 </div>
 <div align="center">
    <b><i>- Miyamoto Musashi</i></b>
+<hr>
 </div>
